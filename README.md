@@ -5,14 +5,6 @@
 
 WorldExplorer is a project designed to explore and manage information related to countries, cities, and languages through a MySQL-powered world database. Whether you're a developer looking to learn about database interactions or someone curious about global demographics, WorldExplorer has you covered.
 
-## Table of Contents
-
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-- [Database Schema](#database-schema)
-- [Contributing](#contributing)
-
 ## Features
 
 - **World Database Management:** Utilizes MySQL to store and manage data related to countries, cities, and languages.
