@@ -15,6 +15,11 @@ select Code, Population, LifeExpectancy
 from country
 where Code = 'ARG';
 
+select Code, Population, LifeExpectancy
+from country
+where Code = 'USA';
+
+
 # Task 3
 
 -- Using ORDER BY, LIMIT, what country has the highest life expectancy? --
